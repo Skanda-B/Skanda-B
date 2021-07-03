@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skanda-B
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding, Ai, Science and want to me an Astronomer one day.
 - 🌱 I’m currently learning C porgramming
 - 📫 How to reach me = github
 
